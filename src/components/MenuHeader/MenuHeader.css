@@ -1,0 +1,18 @@
+.menu-header-links:link,
+.menu-header-links:visited{
+  color: goldenrod;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s;
+  padding: 8px 0;
+  margin-left: 40px;
+}
+
+.menu-header-links:hover,
+.menu-header-links:active{
+  border-bottom: 2px solid #e67e22;
+}
