@@ -24,7 +24,7 @@ const LandingPage = () => {
             />
 
             <div className="landing-page-banner">
-              <h1>Web Developer</h1>
+              <h1>Software Developer</h1>
               <hr />
               <p>HTML/CSS | Javascript | React | NodeJS | MongoDB</p>
               <div className="social-links">
