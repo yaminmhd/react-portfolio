@@ -12,10 +12,6 @@ const Contact = () => {
           <div className="contact-list">
             <ul className="list-group list-group-flush">
               <li className="list-group-item">
-                <i className="fas fa-mobile-alt icon" />
-                +(65) 98899067
-              </li>
-              <li className="list-group-item">
                 <i className="far fa-envelope-open icon" />
                 mdyamin.drzee@gmail.com
               </li>
